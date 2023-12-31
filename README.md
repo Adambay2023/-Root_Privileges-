@@ -11,7 +11,5 @@
     sudo python root-Probleme.py
 ## Tuto Video
 
-
-
-https://github.com/Adambay2023/Root_Privileges/assets/148468929/e28b4832-a568-4275-9b6e-d3f746e059c5
+    https://github.com/Adambay2023/Root_Privileges/assets/148468929/e28b4832-a568-4275-9b6e-d3f746e059c5
 
