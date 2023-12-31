@@ -6,6 +6,6 @@
 ## git clone
     git clone https://github.com/Adambay2023/Root_Privileges.git
 ## patch file
-    cd -Root_Privileges-
+    cd Root_Privileges
 ## Run 
     sudo python root-Probleme.py
